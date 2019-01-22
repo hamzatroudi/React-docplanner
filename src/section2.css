@@ -1,0 +1,30 @@
+
+
+p.psectwo {
+    color: #00b39b;
+    font-size: 25px;
+}
+svg{
+    fill: #c4c4c4;
+    
+    
+}
+svg:hover{
+    fill: #00b39b;
+}
+.line11.row {
+    margin-top: 3%;
+    margin-left: 12%;
+    width: 76%;
+}
+svg {
+    
+        margin: 2%;
+        overflow: hidden;
+        vertical-align: middle;
+        margin-left: 16px;
+    
+}
+.col-lg-8.col-md-8.col-sm-12 {
+    margin-left: 6%;
+}

@@ -1,0 +1,46 @@
+.sec3.row {
+    margin-left: 15px;
+    background-color: #def8f7;
+    
+}
+.badgeliste-container.row {
+    text-align: center;
+}
+
+.badgee {
+    margin-top: 2px;
+    padding: 7%;
+    height: 92%;
+    width: 88%;
+    border-radius: 5px;
+    background-color: white;
+    
+}
+.badgeliste-container.row {
+    padding: 34px;
+}
+#fx0 {
+    margin-top: 34px;
+}
+div#fx2 {
+    margin-top: 34px;
+}
+p.psecthree {
+    color: #00b39b;
+    font-size: 32px;
+}
+p.psecthree_ {
+    font-size: 12px;
+    color:#8de5f6;
+}
+p.psecthree {
+    margin-top: 60px;
+    margin-left: 115px;
+}
+
+p.psecthree_ {
+    margin-left: 116px;
+}
+.section3-container {
+    margin-top: 24px;
+}

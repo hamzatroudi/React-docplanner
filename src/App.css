@@ -1,0 +1,41 @@
+.list{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 92%;
+    padding: 20px;
+    margin-left: 50px;
+
+}
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    width: 102%;
+}
+.App {
+    width: 98%;
+}
+
+.desous{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 11px;
+    padding-top: 0px;
+}
+.item {
+    margin-top: 17px;
+    border: 1px solid #f7f7f7;
+    margin-top: 17px;
+    border-radius: 15px;
+}
+.btncard{
+    height: 24px;
+    text-align: center;
+    background-color: #3d83df;
+    color: white;
+    border-radius: 4px;
+    border: none;
+    font-size: 9px;
+}
+.imglist{
+    border-radius: 16px 16px 0px 0px;
+}

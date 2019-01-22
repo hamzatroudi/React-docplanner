@@ -1,0 +1,42 @@
+img.imgcarte {
+    
+    position: relative;
+    width: 93%;
+    left: 39%;
+    
+}
+
+.item1 {
+    
+    padding: 4%;
+    overflow: hidden;
+    border-radius: 17px;
+   
+}
+.carteviste-container.row {
+    width: 74%;
+    position: relative;
+    left: 13%;
+    padding-top: 5%;
+ 
+    
+
+}
+.cartetitle{
+    color: white;
+    font-size: 13px;
+}
+.des1{
+    color: white;
+    font-size: 25px;
+
+}
+
+.green_
+{
+    background-color: #00ccb1;
+}
+.blue_
+{
+background-color: #3d83df;
+}
